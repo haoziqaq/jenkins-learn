@@ -9,7 +9,7 @@
     name: 'app',
     data() {
       return {
-        msg: 'first jenkins 2222333333demo22222222'
+        msg: 'first jenkins 5555555555555'
       }
     }
   }
